@@ -35,4 +35,3 @@ Some plots were made using QGIS or taken from existing papers.
 - Geomorphic landforms are available from https://rmgsc.cr.usgs.gov/outgoing/ecosystems/Global/. 
 - Upland/lowland classification is available from https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html. 
 - Global Lakes and Wetlands are available from https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-large-lake-polygons-level-1.
-
